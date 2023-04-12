@@ -1,0 +1,23 @@
+{
+  "name": "my-first-pkg",
+  "version": "1.0.0",
+  "description": "my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramyakondoju/My_first_App.git"
+  },
+  "author": "svgie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramyakondoju/My_first_App/issues"
+  },
+  "homepage": "https://github.com/Ramyakondoju/My_first_App#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "rxjs": "^7.8.0"
+  }
+}
